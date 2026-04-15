@@ -39,10 +39,10 @@
 
 ## 🧠 About Me
 
-- 🎓 **Trained** in Artificial Intelligence and Data Analysis under **MCIT (Ministry of Communications and Information Technology)**.
+- 🎓 Trained in **Artificial Intelligence** and **Data Analysis** under the **MCIT** (Ministry of Communications and Information Technology) program.
 - 🔍 Passionate about transforming raw data into **actionable business insights**.
 - 🤖 Experienced in building **end-to-end data pipelines**, **predictive models**, and **LLM-powered applications**.
-- 🚀 Strong believer in the power of **Business Intelligence** and **AI-driven decision making**.
+- 🚀 Bridging the gap between complex data and strategic decision-making.
 
 ---
 
@@ -54,15 +54,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 ### **AI & Machine Learning**
 <div align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-6E33FF?style=for-the-badge" />
 </div>
 
@@ -70,17 +69,63 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 **[Interactive Portfolio](https://arafa-a.lovable.app)**
-Live showcase of my data analysis and AI/ML projects.
+### 1. **Pizza Sales Dashboard – Power BI**
+**Interactive Business Intelligence Dashboard** for a pizza chain to monitor and optimize sales performance.
 
-### 📈 **Sales Performance Dashboard (Power BI)**
-Interactive business intelligence dashboard for tracking KPIs, sales trends, and performance insights.
+**Key Features:**
+- Top 10 best-selling pizzas with revenue breakdown
+- Sales analysis by pizza size (L, M, S, XL, XXL) and category
+- Monthly sales trends and seasonal patterns
+- Key metrics: Total Revenue ($817,860), Total Pizzas Sold (49,574), Total Orders (48,620)
 
-### 🤖 **Machine Learning Predictive Models**
-End-to-end ML projects with advanced feature engineering, model optimization, and evaluation.
+**Technologies:** Power BI, DAX, Data Modeling, Advanced Visualizations  
+**Impact:** Provided clear insights into product performance and demand patterns, helping the business identify high-performing items and optimize inventory.
 
-### 🧠 **LLM & RAG-Powered AI System**
-Intelligent retrieval-augmented generation system for accurate and context-aware responses.
+![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/pizza-dashboard.png)
+
+### 2. **Machine Learning Model Evaluation & Analysis**
+Developed and evaluated classification models using Scikit-learn with comprehensive performance metrics.
+
+**Key Features:**
+- Model predictions on test set
+- Accuracy calculation and classification report
+- Confusion matrix visualization using Seaborn heatmap
+- ROC-AUC score computation and evaluation
+
+**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+**Outcome:** Built a robust evaluation pipeline to assess model performance, ensuring reliability before deployment.
+
+![ML Model Evaluation](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/ml-evaluation.png)
+
+### 3. **Advanced Pizza Analytics Dashboard (Tableau / Power BI)**
+Multi-dimensional analysis dashboard showcasing pizza orders with advanced visualizations.
+
+**Key Features:**
+- Radial & circular visualizations for order distribution
+- Pizza type and size analysis
+- Payment method breakdown
+- Interactive filters and drill-down capabilities
+- Location-based insights
+
+**Technologies:** Power BI / Tableau, Advanced DAX/Calculated Fields  
+**Impact:** Delivered deep business intelligence for operational decision-making.
+
+![Advanced Pizza Analytics](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/advanced-pizza.png)
+
+### 4. **Global Superstore Sales Analysis Dashboard**
+Comprehensive sales and profit analysis for a global office supplies retailer.
+
+**Key Features:**
+- Total Orders (4,117) and maximum unit price analysis ($453K)
+- Quantity and unit price by sub-category with bar charts
+- Profit, quantity, and discount analysis across categories
+- Geographic sales distribution on world map
+- Segmentation analysis (Consumer, Corporate, Home Office)
+
+**Technologies:** Power BI, Data Modeling, Geospatial Visualization  
+**Impact:** Uncovered key profitability drivers and regional performance trends.
+
+![Superstore Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/superstore-dashboard.png)
 
 ---
 
@@ -93,10 +138,10 @@ Intelligent retrieval-augmented generation system for accurate and context-aware
 ---
 
 <p align="center">
-  <i>"Turning complex data into clear insights and building intelligent systems that matter."</i>
+  <i>"Turning complex data into clear insights and building intelligent systems that drive real business value."</i>
 </p>
 
 ---
 
-### ✨ Thank you for visiting my GitHub profile!
-Feel free to explore my repositories and reach out for collaboration or opportunities.
+### ✨ Thank you for visiting my profile!
+Open to **collaborations**, **job opportunities**, or discussions in **Data Analytics**, **Business Intelligence**, and **AI/ML**. Feel free to reach out!
