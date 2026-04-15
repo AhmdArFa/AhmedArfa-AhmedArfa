@@ -1,73 +1,51 @@
-# 👋 Hi, I'm Ahmed Gamal Arfa
+# Hi there, I'm Ahmed Gamal Arfa 👋 
+### Data Analyst | AI & Machine Learning Engineer
 
-🚀 Data Analyst | AI & Machine Learning Engineer  
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AhmedArfa&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedArfa" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;AI+Engineer;Turning+Data+into+Insights;Building+Smart+Solutions&center=true&width=500&height=50)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![Streak](https://streak-stats.demolab.com?user=AhmdArFa&theme=tokyonight)
+I am a passionate **Data Professional** dedicated to transforming complex data into actionable insights and building intelligent solutions using AI. 
 
 ---
 
-## 🧠 About Me
-- 🎓 Trained under MCIT in AI & Data Analysis  
-- 🧠 Strong analytical mindset  
-- 🎯 Passionate about Data, AI, and Business Intelligence  
-- ⚡ Love solving real-world problems using data  
+### 🌐 My Portfolio
+You can find my latest work, interactive dashboards, and detailed case studies on my live portfolio:
+👉 **[arafa-a.lovable.app](https://arafa-a.lovable.app)**
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-
-### 🤖 AI & ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+### 🚀 Key Projects
+* **Sales Dashboard (Power BI)**: Built interactive dashboards to visualize business KPIs and identify trends.
+* **Data Analysis (Python)**: Specialized in data cleaning and visualization using Pandas & Seaborn.
+* **Machine Learning Models**: Developed predictive models with Scikit-learn, focusing on feature engineering.
+* **AI & LLM / RAG**: Building intelligent systems using Large Language Models.
 
 ---
 
-## 📊 Projects
+### 🛠️ Tech Stack
 
-### 🔹 Sales Dashboard (Power BI)
-- Built interactive dashboard for business insights  
-- Identified trends and KPIs  
-
-### 🔹 Data Analysis Project (Python)
-- Cleaned and analyzed dataset using Pandas  
-- Extracted insights and visualizations  
-
-### 🔹 Machine Learning Model
-- Built predictive model using Scikit-learn  
-- Improved accuracy using feature engineering  
-
-### 🔹 AI Project (LLM / RAG)
-- Developed intelligent system using LLMs  
-- Implemented retrieval-based responses  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Analysis** | Python (Pandas, NumPy), SQL, Excel |
+| **Visualization** | Power BI, Tableau |
+| **AI & ML** | Scikit-learn, PyTorch, LLMs, RAG |
+| **DevOps** | Git, Docker, GitHub Actions |
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: (www.linkedin.com/in/ahmed-gamal-arfa)
-- Email: (anaarafa2019@gmail.com)
+### 🧠 About Me
+- 🎓 Trained under **MCIT** in AI & Data Analysis.
+- 💡 Focused on turning raw data into strategic business intelligence.
+- 🔭 I’m currently working on enhancing my skills in **Generative AI**.
 
 ---
 
-💡 "Turning data into insights and ideas into intelligent systems."
+### 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafa-a.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gamal-arfa)
+
+---
+<p align="center">
+  <i>"Data is the new oil, but AI is the engine."</i>
+</p>
