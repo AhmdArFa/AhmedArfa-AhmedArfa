@@ -1,10 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedArfa)
+
 # 👋 Hi, I'm Ahmed Gamal Arfa
 
 🚀 Data Analyst | AI & Machine Learning Engineer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArfa&show_icons=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;AI+Engineer;Turning+Data+into+Insights)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight)
 ---
 
 ## 🧠 About Me
