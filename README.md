@@ -15,7 +15,7 @@
 
   <p align="center">
     <a href="https://github.com/AhmdArFa"><img src="https://img.shields.io/badge/Portfolio-Projects-blue?style=for-the-badge&logo=github" alt="Projects" /></a>
-    <a href="https://linkedin.com/in/AhmdArFa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/ahmed-gamal-arfa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:AhmdArFa@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 
