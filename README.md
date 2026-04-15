@@ -8,8 +8,6 @@
 ---
 
 ## 🧠 About Me
-
-## 🧠 About Me
 - Trained under MCIT in AI & Data Analysis
 - Strong analytical mindset with disciplined background
 - Interested in Data, AI, and Business Intelligence
