@@ -6,9 +6,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;AI+Engineer;Turning+Data+into+Insights)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=default&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=default&cache_seconds=1800)
 ---
 
 ## 🧠 About Me
