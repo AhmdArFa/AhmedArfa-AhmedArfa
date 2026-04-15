@@ -81,7 +81,7 @@
 **Technologies:** Power BI, DAX, Data Modeling, Advanced Visualizations  
 **Impact:** Provided clear insights into product performance and demand patterns, helping the business identify high-performing items and optimize inventory.
 
-![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/pizza-dashboard.png)
+![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/pizza-dashboard.png)
 
 ### 2. **Machine Learning Model Evaluation & Analysis**
 Developed and evaluated classification models using Scikit-learn with comprehensive performance metrics.
