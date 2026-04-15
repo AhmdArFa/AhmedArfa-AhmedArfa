@@ -42,7 +42,7 @@
 - 🎓 Trained in **Artificial Intelligence** and **Data Analysis** under the **MCIT** (Ministry of Communications and Information Technology) program.
 - 🔍 Passionate about transforming raw data into **actionable business insights**.
 - 🤖 Experienced in building **end-to-end data pipelines**, **predictive models**, and **LLM-powered applications**.
-- 🚀 Bridging the gap between complex data and strategic decision-making.
+- 🚀 Focused on leveraging **Business Intelligence** and **Machine Learning** to drive real-world decisions.
 
 ---
 
@@ -70,62 +70,62 @@
 ## 🚀 Featured Projects
 
 ### 1. **Pizza Sales Dashboard – Power BI**
-**Interactive Business Intelligence Dashboard** for a pizza chain to monitor and optimize sales performance.
+Interactive business intelligence dashboard designed to analyze pizza chain sales performance and identify key trends.
 
-**Key Features:**
+**Key Features & Insights:**
 - Top 10 best-selling pizzas with revenue breakdown
-- Sales analysis by pizza size (L, M, S, XL, XXL) and category
+- Sales analysis by pizza size and category
 - Monthly sales trends and seasonal patterns
-- Key metrics: Total Revenue ($817,860), Total Pizzas Sold (49,574), Total Orders (48,620)
+- Key Metrics: **$817,860** total revenue | **49,574** pizzas sold | **48,620** total orders
 
-**Technologies:** Power BI, DAX, Data Modeling, Advanced Visualizations  
-**Impact:** Provided clear insights into product performance and demand patterns, helping the business identify high-performing items and optimize inventory.
+**Technologies:** Power BI, DAX, Data Modeling
 
-![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/pizza-dashboard.png)
+![Pizza Sales Dashboard](https://raw.githubusercontent.com/AhmdArFa/AhmdArFa/main/Images/Screenshot%202026-02-13%20185632.png)
 
-### 2. **Machine Learning Model Evaluation & Analysis**
-Developed and evaluated classification models using Scikit-learn with comprehensive performance metrics.
+---
 
-**Key Features:**
-- Model predictions on test set
-- Accuracy calculation and classification report
-- Confusion matrix visualization using Seaborn heatmap
-- ROC-AUC score computation and evaluation
-
-**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
-**Outcome:** Built a robust evaluation pipeline to assess model performance, ensuring reliability before deployment.
-
-![ML Model Evaluation](https://github.com/AhmdArFa/AhmdArFa/raw/main/ml-evaluation.png)
-
-### 3. **Advanced Pizza Analytics Dashboard (Tableau / Power BI)**
-Multi-dimensional analysis dashboard showcasing pizza orders with advanced visualizations.
+### 2. **Machine Learning Model Evaluation**
+End-to-end classification model assessment pipeline with comprehensive performance metrics and visualizations.
 
 **Key Features:**
-- Radial & circular visualizations for order distribution
-- Pizza type and size analysis
-- Payment method breakdown
+- Model predictions and accuracy calculation
+- Detailed classification report
+- Confusion matrix visualized with Seaborn heatmap
+- ROC-AUC score evaluation
+
+**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
+
+![ML Model Evaluation](https://raw.githubusercontent.com/AhmdArFa/AhmdArFa/main/Images/Screenshot%202026-02-01%20202034%20-%20Copy.png)
+
+---
+
+### 3. **Advanced Pizza Analytics Dashboard**
+Multi-dimensional analytics dashboard with advanced visualizations for pizza order data.
+
+**Key Features:**
+- Radial and circular visualizations for order distribution
+- Analysis by pizza type, size, and payment methods
 - Interactive filters and drill-down capabilities
-- Location-based insights
 
-**Technologies:** Power BI / Tableau, Advanced DAX/Calculated Fields  
-**Impact:** Delivered deep business intelligence for operational decision-making.
+**Technologies:** Power BI / Tableau
 
-![Advanced Pizza Analytics](https://github.com/AhmdArFa/AhmdArFa/raw/main/advanced-pizza.png)
+![Advanced Pizza Analytics](https://raw.githubusercontent.com/AhmdArFa/AhmdArFa/main/Images/Screenshot%202026-02-02%20203801.png)
+
+---
 
 ### 4. **Global Superstore Sales Analysis Dashboard**
-Comprehensive sales and profit analysis for a global office supplies retailer.
+Comprehensive sales, profit, and geographic analysis for a global office supplies retailer.
 
-**Key Features:**
-- Total Orders (4,117) and maximum unit price analysis ($453K)
-- Quantity and unit price by sub-category with bar charts
-- Profit, quantity, and discount analysis across categories
-- Geographic sales distribution on world map
-- Segmentation analysis (Consumer, Corporate, Home Office)
+**Key Features & Insights:**
+- Total orders: **4,117**
+- Maximum unit price analysis: **$453K**
+- Quantity, unit price, profit, and discount by sub-category
+- Geographic distribution on world map
+- Customer segmentation (Consumer, Corporate, Home Office)
 
-**Technologies:** Power BI, Data Modeling, Geospatial Visualization  
-**Impact:** Uncovered key profitability drivers and regional performance trends.
+**Technologies:** Power BI, Geospatial Visualization, Data Modeling
 
-![Superstore Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/superstore-dashboard.png)
+![Superstore Sales Dashboard](https://raw.githubusercontent.com/AhmdArFa/AhmdArFa/main/Images/Screenshot%202026-02-28%20124517%20-%20Copy.png)
 
 ---
 
@@ -143,5 +143,6 @@ Comprehensive sales and profit analysis for a global office supplies retailer.
 
 ---
 
-### ✨ Thank you for visiting my profile!
-Open to **collaborations**, **job opportunities**, or discussions in **Data Analytics**, **Business Intelligence**, and **AI/ML**. Feel free to reach out!
+### ✨ Thank you for visiting my GitHub profile!
+
+I'm always open to **collaborations**, **job opportunities**, or discussions in **Data Analytics**, **Business Intelligence**, and **AI/ML**. Feel free to reach out!
