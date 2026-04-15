@@ -1,51 +1,74 @@
-# Hi there, I'm Ahmed Gamal Arfa 👋 
-### Data Analyst | AI & Machine Learning Engineer
+# 👋 Hi, I'm Ahmed Gamal Arfa
+### Data Analyst | AI & Machine Learning Engineer  
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=AhmedArfa&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedArfa" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;AI+Engineer;Turning+Data+into+Insights;Building+Smart+Solutions&center=true&width=500&height=50&color=36BCF7" alt="Typing SVG" />
 </p>
 
-I am a passionate **Data Professional** dedicated to transforming complex data into actionable insights and building intelligent solutions using AI. 
+---
+
+## 🌐 Quick Access
+<p align="center">
+  <a href="https://arafa-a.lovable.app">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-gamal-arfa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🌐 My Portfolio
-You can find my latest work, interactive dashboards, and detailed case studies on my live portfolio:
-👉 **[arafa-a.lovable.app](https://arafa-a.lovable.app)**
+## 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AhmdArFa&theme=tokyonight" alt="Streak Stats" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+</p>
 
 ---
 
-### 🚀 Key Projects
-* **Sales Dashboard (Power BI)**: Built interactive dashboards to visualize business KPIs and identify trends.
-* **Data Analysis (Python)**: Specialized in data cleaning and visualization using Pandas & Seaborn.
-* **Machine Learning Models**: Developed predictive models with Scikit-learn, focusing on feature engineering.
-* **AI & LLM / RAG**: Building intelligent systems using Large Language Models.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Analysis** | Python (Pandas, NumPy), SQL, Excel |
-| **Visualization** | Power BI, Tableau |
-| **AI & ML** | Scikit-learn, PyTorch, LLMs, RAG |
-| **DevOps** | Git, Docker, GitHub Actions |
-
----
-
-### 🧠 About Me
+## 🧠 About Me
 - 🎓 Trained under **MCIT** in AI & Data Analysis.
-- 💡 Focused on turning raw data into strategic business intelligence.
-- 🔭 I’m currently working on enhancing my skills in **Generative AI**.
+- 🧠 Strong analytical mindset focused on solving real-world problems.
+- 🎯 Passionate about **Data Engineering**, **LLMs**, and **Business Intelligence**.
+- ⚡ I bridge the gap between complex data and actionable insights.
 
 ---
 
-### 📫 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafa-a.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gamal-arfa)
+## 🛠️ Tech Stack
+
+### 👨‍💻 Data & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%2F%20RAG-6E33FF?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+* **[Interactive Portfolio](https://arafa-a.lovable.app)**: A live showcase of my AI and Data projects.
+* **Sales Dashboard (Power BI)**: Business intelligence solution identifying KPIs and sales trends.
+* **Machine Learning Models**: Predictive analysis using Scikit-learn with advanced feature engineering.
+* **AI System (LLM/RAG)**: Implementation of intelligent retrieval-based response systems.
+
+---
+
+## 📫 Get In Touch
+- 📧 **Email:** [anaarafa2019@gmail.com](mailto:anaarafa2019@gmail.com)
+- 💼 **LinkedIn:** [Ahmed Gamal Arfa](https://www.linkedin.com/in/ahmed-gamal-arfa)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafa-a.lovable.app)
+
 
 ---
 <p align="center">
-  <i>"Data is the new oil, but AI is the engine."</i>
+  <i>"Turning data into insights and ideas into intelligent systems."</i>
 </p>
