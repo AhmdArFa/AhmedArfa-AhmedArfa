@@ -1,106 +1,102 @@
-<div align="center">
+# 👋 Hi, I'm Ahmed Gamal Arfa
 
-  <h1 align="center">
-    Hi there 👋, I'm <strong>Ahmed Gamal Sophi Arfa</strong>
-  </h1>
+**Data Analyst | AI & Machine Learning Engineer**
 
-  <h3 align="center">
-    AI Engineer & Data Analyst<br>
-    <em>Architecting intelligent systems • Turning data into transformative insights</em>
-  </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;AI+%26+ML+Engineer;Turning+Data+into+Insights;Building+Intelligent+Solutions&center=true&width=600&height=50&color=00D4FF" alt="Typing SVG" />
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=700&height=50&color=00D4FF&duration=4000&lines=Building+AI+that+drives+real-world+impact;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Data+Strategy+%7C+MLOps+%7C+Responsible+AI" alt="Typing SVG" />
-  </p>
+---
 
-  <p align="center">
-    <a href="https://github.com/AhmdArFa"><img src="https://img.shields.io/badge/Portfolio-Projects-blue?style=for-the-badge&logo=github" alt="Projects" /></a>
-    <a href="https://linkedin.com/in/ahmed-gamal-arfa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:a.gamal202180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  </p>
+## 🌐 Connect With Me
 
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+<p align="center">
+  <a href="https://arafa-a.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-gamal-arfa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anaarafa2019@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamal&theme=radical&hide_border=true" alt="Streak Stats" />
-  </p>
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AhmdArFa&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 **Trained** in Artificial Intelligence and Data Analysis under **MCIT (Ministry of Communications and Information Technology)**.
+- 🔍 Passionate about transforming raw data into **actionable business insights**.
+- 🤖 Experienced in building **end-to-end data pipelines**, **predictive models**, and **LLM-powered applications**.
+- 🚀 Strong believer in the power of **Business Intelligence** and **AI-driven decision making**.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Data Analysis & Visualization**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+
+### **AI & Machine Learning**
+<div align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-6E33FF?style=for-the-badge" />
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Projects
 
-AI Engineer & Data Analyst with a strong focus on building end-to-end machine learning solutions that create real-world impact.
+### 🔗 **[Interactive Portfolio](https://arafa-a.lovable.app)**
+Live showcase of my data analysis and AI/ML projects.
 
-I work across **machine learning**, **data analysis**, and **AI systems development**, with hands-on experience in NLP, computer vision, and automation workflows (including tools like n8n).
+### 📈 **Sales Performance Dashboard (Power BI)**
+Interactive business intelligence dashboard for tracking KPIs, sales trends, and performance insights.
 
-- 🔭 Currently exploring **Agentic AI**, **LLMs**, and **automation workflows**
-- 🌱 Learning more about **MLOps** and **production AI systems**
-- 💡 Interested in freelancing and real-world AI applications
+### 🤖 **Machine Learning Predictive Models**
+End-to-end ML projects with advanced feature engineering, model optimization, and evaluation.
 
----
-
-### 🛠️ Core Technical Proficiencies
-
-**AI & Machine Learning**  
-Deep Learning • Neural Networks • NLP • Computer Vision • LLMs • Prompt Engineering
-
-**Data Analysis**  
-Python • Pandas • NumPy • Data Cleaning • EDA • Visualization
-
-**Tools & Technologies**  
-Python • scikit-learn • TensorFlow • PyTorch • n8n • Git • Docker (basic)
-
-**Visualization**  
-Matplotlib • Seaborn • Power BI
+### 🧠 **LLM & RAG-Powered AI System**
+Intelligent retrieval-augmented generation system for accurate and context-aware responses.
 
 ---
 
-### 📌 Featured Projects
+## 📫 Get In Touch
 
-**1. Predictive Model Project**  
-Built a machine learning model for prediction tasks with solid accuracy and real-world dataset handling.  
-→ **Techniques**: Data preprocessing, feature engineering, model tuning  
-→ **Repository**: https://github.com/ahmedgamal/project1  
-
-**2. NLP Text Processing Project**  
-Developed a text analysis pipeline for extracting insights from raw text data.  
-→ **Techniques**: NLP, tokenization, sentiment analysis  
-→ **Repository**: https://github.com/ahmedgamal/project2  
-
-**3. Automation Workflow (n8n)**  
-Created automated workflows for handling and processing data inputs.  
-→ **Impact**: Reduced manual work and improved efficiency  
-→ **Repository**: https://github.com/ahmedgamal/project3  
+- **Email:** [anaarafa2019@gmail.com](mailto:anaarafa2019@gmail.com)
+- **LinkedIn:** [Ahmed Gamal Arfa](https://www.linkedin.com/in/ahmed-gamal-arfa)
+- **Portfolio:** [arafa-a.lovable.app](https://arafa-a.lovable.app)
 
 ---
 
-### 📜 Certifications & Achievements
-
-- AI & Data Analysis Courses (Online Platforms)
-- Hands-on projects in Machine Learning & NLP
-- Continuous learning in modern AI tools
+<p align="center">
+  <i>"Turning complex data into clear insights and building intelligent systems that matter."</i>
+</p>
 
 ---
 
-### 📫 Let's Connect & Collaborate
-
-- **Email**: ahmedgamal@example.com  
-- **LinkedIn**: https://linkedin.com/in/ahmed-gamal  
-- **GitHub**: https://github.com/ahmedgamal  
-
----
-
-<div align="center">
-
-  <em>Building the future with data and intelligence 🚀</em>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ahmedgamal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-
-</div>
+### ✨ Thank you for visiting my GitHub profile!
+Feel free to explore my repositories and reach out for collaboration or opportunities.
