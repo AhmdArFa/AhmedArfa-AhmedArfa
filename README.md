@@ -81,7 +81,7 @@
 **Technologies:** Power BI, DAX, Data Modeling, Advanced Visualizations  
 **Impact:** Provided clear insights into product performance and demand patterns, helping the business identify high-performing items and optimize inventory.
 
-![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/pizza-dashboard.png)
+![Pizza Sales Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/pizza-dashboard.png)
 
 ### 2. **Machine Learning Model Evaluation & Analysis**
 Developed and evaluated classification models using Scikit-learn with comprehensive performance metrics.
@@ -95,7 +95,7 @@ Developed and evaluated classification models using Scikit-learn with comprehens
 **Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
 **Outcome:** Built a robust evaluation pipeline to assess model performance, ensuring reliability before deployment.
 
-![ML Model Evaluation](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/ml-evaluation.png)
+![ML Model Evaluation](https://github.com/AhmdArFa/AhmdArFa/raw/main/ml-evaluation.png)
 
 ### 3. **Advanced Pizza Analytics Dashboard (Tableau / Power BI)**
 Multi-dimensional analysis dashboard showcasing pizza orders with advanced visualizations.
@@ -110,7 +110,7 @@ Multi-dimensional analysis dashboard showcasing pizza orders with advanced visua
 **Technologies:** Power BI / Tableau, Advanced DAX/Calculated Fields  
 **Impact:** Delivered deep business intelligence for operational decision-making.
 
-![Advanced Pizza Analytics](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/advanced-pizza.png)
+![Advanced Pizza Analytics](https://github.com/AhmdArFa/AhmdArFa/raw/main/advanced-pizza.png)
 
 ### 4. **Global Superstore Sales Analysis Dashboard**
 Comprehensive sales and profit analysis for a global office supplies retailer.
@@ -125,7 +125,7 @@ Comprehensive sales and profit analysis for a global office supplies retailer.
 **Technologies:** Power BI, Data Modeling, Geospatial Visualization  
 **Impact:** Uncovered key profitability drivers and regional performance trends.
 
-![Superstore Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/images/superstore-dashboard.png)
+![Superstore Dashboard](https://github.com/AhmdArFa/AhmdArFa/raw/main/superstore-dashboard.png)
 
 ---
 
