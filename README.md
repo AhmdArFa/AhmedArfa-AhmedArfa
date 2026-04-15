@@ -15,8 +15,8 @@ I am passionate about transforming data into actionable insights and building in
 ---
 
 ## 🛠️ Tech Stack
-- Python (Pandas, NumPy)
-- SQL
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
 - Power BI & Tableau
 - Scikit-learn & PyTorch
 - Excel
