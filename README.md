@@ -3,7 +3,7 @@
 
 🚀 Data Analyst | AI & Machine Learning Engineer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedArfa&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmdArfa&show_icons=true)
 
 ---
 
